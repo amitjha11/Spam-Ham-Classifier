@@ -1,5 +1,4 @@
 # Spam-Ham-Classifier
-[![HitCount](http://hits.dwyl.com/amitkrjha1994/Spam-Ham-Classifier.svg)](http://hits.dwyl.com/amitkrjha1994/Spam-Ham-Classifier)
 This is a basic spam ham Classifier  for end to end project
 
 Algorithim Used:  Naive bayes(MultinomialNB)
